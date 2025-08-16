@@ -1,0 +1,47 @@
+[
+{
+    "model": "suppliers.product",
+    "pk": 1,
+    "fields": {
+        "name": "Смартфон Galaxy",
+        "model": "S23 Ultra",
+        "release_date": "2023-02-01"
+    }
+},
+{
+    "model": "suppliers.product",
+    "pk": 2,
+    "fields": {
+        "name": "Ноутбук бизнес-класса",
+        "model": "ThinkPad X1",
+        "release_date": "2022-10-15"
+    }
+},
+{
+    "model": "suppliers.product",
+    "pk": 3,
+    "fields": {
+        "name": "Умные часы",
+        "model": "Watch Pro 3",
+        "release_date": "2023-05-20"
+    }
+},
+{
+    "model": "suppliers.product",
+    "pk": 4,
+    "fields": {
+        "name": "Беспроводные наушники",
+        "model": "Buds 2 Pro",
+        "release_date": "2022-08-10"
+    }
+},
+{
+    "model": "suppliers.product",
+    "pk": 5,
+    "fields": {
+        "name": "Планшет",
+        "model": "Tab S9",
+        "release_date": "2023-07-26"
+    }
+}
+]

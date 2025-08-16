@@ -16,7 +16,11 @@ class UserCreateAPIView(CreateAPIView):
     queryset = User.objects.all()
     permission_classes = [AllowAny]
 
+
 class UserRetrieveAPIView(RetrieveAPIView):
+    """
+    API endpoint для просмотра информации о пользователе.
+    """
 
     queryset = User.objects.all()
     serializer_class = UserSerializer
