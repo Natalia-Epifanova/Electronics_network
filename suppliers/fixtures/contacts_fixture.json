@@ -1,0 +1,79 @@
+[
+{
+    "model": "suppliers.contact",
+    "pk": 1,
+    "fields": {
+        "email": "info@techfactory.ru",
+        "country": "Россия",
+        "city": "Москва",
+        "street": "Ленинский пр-т",
+        "house_number": "42"
+    }
+},
+{
+    "model": "suppliers.contact",
+    "pk": 2,
+    "fields": {
+        "email": "sales@elcity.ru",
+        "country": "Россия",
+        "city": "Санкт-Петербург",
+        "street": "Невский проспект",
+        "house_number": "15"
+    }
+},
+{
+    "model": "suppliers.contact",
+    "pk": 3,
+    "fields": {
+        "email": "support@ip-ivanov.ru",
+        "country": "Россия",
+        "city": "Екатеринбург",
+        "street": "Ленина",
+        "house_number": "7"
+    }
+},
+{
+    "model": "suppliers.contact",
+    "pk": 4,
+    "fields": {
+        "email": "contact@bestchip.com",
+        "country": "Китай",
+        "city": "Шэньчжэнь",
+        "street": "Huaqiang North",
+        "house_number": "1012"
+    }
+},
+{
+    "model": "suppliers.contact",
+    "pk": 5,
+    "fields": {
+        "email": "office@electro.by",
+        "country": "Беларусь",
+        "city": "Минск",
+        "street": "Победителей",
+        "house_number": "23"
+    }
+},
+{
+    "model": "suppliers.contact",
+    "pk": 6,
+    "fields": {
+        "email": "ip_petrov@mail.ru",
+        "country": "Беларусь",
+        "city": "Минск",
+        "street": "Ленина",
+        "house_number": "45"
+    }
+},
+{
+    "model": "suppliers.contact",
+    "pk": 7,
+    "fields": {
+        "email": "test_ip@mail.ru",
+        "country": "Китай",
+        "city": "Шэньчжэнь",
+        "street": "Huaqiang North",
+        "house_number": "1013"
+    }
+}
+]
